@@ -2,3 +2,6 @@
 abcabc
 cbacba
 abcdefghijklmnopqrstuvwxyz
+
+新增一行字代表檔案不同
+Wrote some new words
