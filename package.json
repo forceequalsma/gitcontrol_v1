@@ -1,0 +1,11 @@
+{
+  "name": "chrome-color-picker",
+  "version": "1.0.0",
+  "description": "Chrome Color Picker Extension",
+  "scripts": {
+    "generate-icons": "node generate-icons.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+} 
