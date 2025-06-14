@@ -1,0 +1,3 @@
+- uptime
+- cal 202506
+- mkdir funny
